@@ -20,15 +20,14 @@
 
 #### Sort
 
-- [ ] insert sort
-
-- [ ] shell sort
-- [ ] select sort
-- [ ] bubble sort
+- [x] insert sort
+- [x] shell sort
+- [x] select sort
+- [x] bubble sort
 - [ ] quick sort
 - [ ] heap sort
 - [ ] merge sort
-- [ ] Radix sort
+- [ ] radix sort
 
 ---
 
