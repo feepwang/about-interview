@@ -26,7 +26,7 @@
 - [x] bubble sort
 - [x] quick sort
 - [x] heap sort
-- [ ] merge sort
+- [x] merge sort
 - [ ] radix sort
 
 ---
