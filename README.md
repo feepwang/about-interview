@@ -16,7 +16,7 @@
 
 #### Search
 
-- [ ] binary search
+- [x] binary search
 
 #### Sort
 
